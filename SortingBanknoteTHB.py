@@ -1,4 +1,4 @@
-print("This is a program to identify the number of Thai banknote usd for the amount of money you provide")
+print("This is a program for identifying the number of Thai banknote used for the amount of money you provide")
 
 money = int(input("Enter the amount of money:"))
 note1k = money//1000
